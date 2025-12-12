@@ -1,0 +1,13 @@
+{
+  "itemGroup.simplelogin": "Example Mod Tab",
+  "block.simplelogin.example_block": "Example Block",
+  "item.simplelogin.example_item": "Example Item",
+
+  "simplelogin.configuration.title": "simplelogin Configs",
+  "simplelogin.configuration.section.simplelogin.common.toml": "simplelogin Configs",
+  "simplelogin.configuration.section.simplelogin.common.toml.title": "simplelogin Configs",
+  "simplelogin.configuration.items": "Item List",
+  "simplelogin.configuration.logDirtBlock": "Log Dirt Block",
+  "simplelogin.configuration.magicNumberIntroduction": "Magic Number Text",
+  "simplelogin.configuration.magicNumber": "Magic Number"
+}
